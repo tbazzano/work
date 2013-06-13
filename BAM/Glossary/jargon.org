@@ -1,0 +1,540 @@
+
+* A
+** AAA      Area Agency on Aging
+** AABD     Aid to the Aged, Blind & Disabled
+** AAG      Assistant Attorney General
+** AAP      American Academy of Pediatrics
+** ABAWD    Able-Bodied Adults without Dependents
+** ABD      Aged, Blind and Disabled
+** ACA      Affordable Care Act
+** ACCESS   
+The computer software system used by DCF and DVHA to track program
+eligibility information
+** ACF      Administration for Children & Families
+** ACO      Accountable Care Organization
+** ADA      American Dental Association
+** ADAP     Alcohol and Drug Abuse Programs
+** ADPC     Application Document Processing Center
+** AEP      Annual Enrollment Period
+** AGA      Adult General Assessment
+** AHCPR    Agency for Health Care Policy & Research
+** AHEC     Area Health Education Center
+** AHRQ     Agency for Healthcare Research & Quality
+** AHS      Agency of Human Services                                     :vt:
+** AIM      Advanced Information Management System (see MMIS)
+** AIRS     Automated Information and Referral System
+** A/I/U    Adopt/Implement/Upgrade
+** ALS      Advanced Life Support
+** AMA      American Medical Association
+** AMAP     Aids Medication Assistance Program
+** AMP      Average Manufacturer Price
+** ANFC     Aid to Needy Families with Children
+** AOA      Agency of Administration
+** AOPS     Assistant Operations
+ESD Unit
+** APA      Administrative Procedures Act
+** APC      Ambulatory Payment Classification
+** APCP     Advanced Primary Care Practice
+** APD      Advance Planning Document
+** APS      Adult Protective Services
+** APS      APS Healthcare
+** APTC     Advanced Premium Tax Credit                                 :fed:
+** ARRA     American Recovery and Reinvestment Act of 2009              :fed:
+** ASD      Administrative Services Division
+** AWP      Average Wholesale Price
+* B
+** BAFO     Best & Final Offer
+** BC/BS    Blue Cross/Blue Shield
+** BCCT     Breast and Cervical Cancer Treatment Program
+** BD       Blind & Disabled
+** BHP      Basic health Plan
+** BISHCA   Banking, Insurance, Securities, & Health Care Administration 
+(now DFR-Dept of Financial Regulation)
+
+** BP       Blueprint for Health
+** BPM      Business Process Management
+** BPS      Benefits Programs Specialist
+** BROC     Bennington-Rutland Opportunity Council
+* C
+** CAD      Coronary Artery Disease
+** CAHPS    Consumer Assessment of Health Plans Survey
+** CALT     Collaborative Application Lifecycle Tool
+** CAP      Community Action Program
+** CC       Committed Child
+** CCB      Change Control Board
+** CCI      Chronic Care Initiative
+** CCIIO    Center for Consumer Information & Insurance Oversight (CMS)
+** CCMP     Chronic Care Management Program
+** CCTA     Chittenden County Transportation Authority
+** CF       Crisis Fuel
+** CFR      Code of Federal Regulations
+** CHAP     Catamount Health Assistance Program
+** CHF      Congestive Heart Failure
+** CHIPRA   Children’s Health Insurance Program Re-authorization Act of 2009
+** CHPR     Center for Health Policy and Research
+** CHT      Community Health Team
+** CIO      Chief Information Office
+** CIS      Children's Integrated Services
+** CM(1)    Case Management
+** CM(2)       Configuration Management
+** CMN      Certification of Medical Necessity
+** CMS      Centers for Medicare & Medicaid Services                    :fed:
+(formerly [[ HCFA     Health Care Finance Administration (now CMS)][HCFA]])
+
+** CMSO     Center for Medicaid & State Operations
+
+
+
+** CNM      Certified Nurse Midwife
+** COA      Council on Aging
+** COB      Coordination of Benefits
+** COB-MAT  Coordination of Office Based Medication Assisted Therapy
+** COLA     Cost of Living Adjustment
+** CON      Certificate of Need
+** ConOps   Concept of Operations
+** COPD     Chronic Obstructive Pulmonary Disease
+** COPS     Computer Operations and Problem Solving
+** COS      Categories of Service
+** COTS     Commercial Off-The-Shelf
+
+
+** CPH      Community Public Health
+** CPI      Center for Program Integrity
+** CPT      Common Procedural Terminology
+** CPTOD    Capitated Program for the Treatment of Opiate Dependency
+** CR       Change Request
+** CRT      Community Rehabilitation & Treatment
+** CSBG     Community Services Block Grant
+** CSC      Customer Support Center
+** CSD      Computer Services Division
+** CSHN     Children with Special Health Needs
+** CSME     Coverage & Services Management Enhancement
+** CSR      Customer Service Request or Cost Sharing Reductions
+** CURB     Clinical Utilization Review Board
+** CY       Calendar Year
+* D
+** DAD      Department of Aging & Disabilities (see DAIL)
+** DAIL     Department of Disabilities, Aging and Independent Living
+** DCA      Dept. of Cost Allocation (federal)                          :fed:
+** DCF      Department for Children and Families                     :vt:ahs:
+** DDI      Design, Development & Implementation
+** DDMHS    Department of Developmental & Mental Health Services
+** DDS      Disability Determination Services (part of DCF)              :vt:
+** DFR      Department of Financial Regulation                           :vt:
+** DHHS     Department of Health & Human Services (United States)
+** DHS      Department of Homeland Security                             :fed:
+** DII      Department of Information & Innovation                       :vt:
+** DIS      Detailed Implementation Schedule
+** DME      Durable Medical Equipment
+** DMC      Disease Management Coordinators
+** DMH      Department of Mental Health
+** DO       District Office
+** DOA      Date of Application
+** DOB      Date of Birth
+** DOC      Department of Corrections
+** DOE      Department of Education
+** DOH      Department of Health (see VDH)                               :vt:
+** DOL      Department of Labor
+** DOS      Date of Service
+** DR       Desk Review
+** DRA      Deficit Reduction Act
+** DR       Disaster Recovery
+** DR. D    Dr. Dynasaur Program
+** DRG      Diagnosis Related Grouping
+** DSH      Disproportionate Share Hospital
+** DSW      Department of Social Welfare (see PATH)
+** DUR      Drug Utilization Review (Board)
+** DVHA     Department of Vermont Health Access                          :vt:
+* E
+** EA       Emergency Assistance
+** EAC      Estimated Acquisition Cost
+** EBT      Electronic Benefit Transfer
+** ECS      Electronic Claims Submission
+** EDI      Electronic Data Interchange
+** EDS      Electronic Data Systems Corporation, now HP Enterprise Services
+** EFT      Electronic Funds Transfer
+** EGA      Estimated Gestational Age
+** EHB      Essential Health Benefits
+** EHR      Electronic Health Record
+** EHRIP    EHR Incentive Program
+** EITC     Earned Income Tax Credit
+** EOMB     Explanation of Medicare (or Medicaid) Benefits
+** EP       Essential Person
+** EPSDT    Early & Periodic Screening, Diagnosis & Treatment
+** EQR      External Quality Review
+** ER       Emergency Room
+** ERA(1)   Electronic Remittance Advice
+** ERA(2)   Exchange Reference Architecture
+** ERC      Enhanced Residential Care
+** ESD      Economic Services Division (of the DCF)
+** ESI      Employer Sponsored Insurance
+** ESRD     End Stage Renal Disease
+** EST      Eastern Standard Time
+** EVAH     Enhanced VT Ad Hoc (query & reporting system)
+** EVS      Eligibility Verification System
+* F
+** FA       Fiscal Agent
+** FADS     Fraud Abuse & Detection System
+** FDA      Food & Drug Administration
+** FEHP     Federal Employee Health Plan
+** FEIN     Federal Employer's Identification Number
+** FFE      Federally Facilitated Exchange
+** FFP      Federal Financial Participation
+** FFS      Fee for Service
+** FFY      Federal Fiscal Year
+** FH       Fair Hearing
+** FHU      Fair Housing Unit
+** FICA     Federal Insurance Contribution Act
+** FMAP     Federal Medical Assistance Percentage
+** FMB      Financial Measurement Baseline
+** FMP      Financial Management Plan
+** FPL      Federal Poverty Level
+** FPO      Family Planning Option
+** FQHC     Federally Qualified Health Centers
+** FSA      Flexible Spending Account
+** FTE      Fulltime Equivalent
+** FTI      Federal Tax Information
+** FUL      Federal Upper Limit 
+(for pricing & payment of drug claims)
+* G
+** GA       General Assistance
+** GAO      General Accounting Office
+** GC       Global Commitment
+** GCR      Global Clinical Record
+  (application of the MMIS)
+
+** GF       General Fund
+** GMC      Green Mountain Care
+** GMCB     Green Mountain Care Board
+** GME      Graduate Medical Education
+* H
+** HAEU     Health Access Eligibility Unit
+** HATF     Health Access Trust Fund
+** HBE      Health Benefit Exchange
+** HCBS     Home and Community Based Services
+** HCERA    Health Care & Education Reconciliation Act of 2010
+** HCFA     Health Care Finance Administration (now CMS)
+** HCPCS    HCFA Common Procedure Coding System
+** HCR      Health Care Reform
+** HEDIS    Healthcare Effectiveness Data & Information Set
+** HHA      Home Health Agency
+** HHS      Health and Human Services (U.S. Department of)
+** HIE      Health Information Exchange
+** HIR      Hire into Range                                              :vt:
+** HIX      Health Insurance Exchange
+** HIFA     Health Insurance Flexibility and Accountability
+** HIPAA    Health Insurance Portability & Accountability Act
+** HIPP     Health Insurance Premium Program
+** HIT      Health Information Technology
+** HITECH   HIT for Economic & Clinical Health
+** HIX      Health Information Exchange
+** HP       HP Enterprise Services, formerly EDS
+** HPIU     Health Programs Integration Unit
+** HCR      Health Care Reform
+** HR       Health Reform
+** HRA(1)   Health Risk Assessment
+** HRA(2)   Health Reimbursement Account
+** HRAP     Health Resource Allocation Plan
+** HRSA     Health Resources and Services Administration
+** HSA(1)   Health Savings Account 
+** HSA(2)   Health Service Area
+** HSE      Health Services Enterprise                                   :vt:
+** HSB      Human Services Board
+** HVP      Healthy Vermonters Program
+
+* I
+** IAPD     Implementation Advance Planning Document
+** IBNR     Incurred But Not Reported
+** IC       Individual Consideration
+** ICD      International Classification of Diseases
+** ICE
+** ICEHR    Integrated Care Electronic Health Record
+** ICF/MR   Intermediate Care Facility for the Mentally Retarded
+** ICM      Integrated Care Management
+** ICN      Internal Control Number
+** ICU      Intensive Care Unit
+** ID       Identification
+** IDN      Integrated Delivery Network
+** IEP      Individual Education Plan
+** IEVS     Income Eligibility Verification System
+** IGA      Intergovernmental Agreements
+** IHI      Institute for Healthcare Improvement
+** IRS      Internal Revenue Service                                    :fed:
+** ISRA     Information Security Risk Assessment
+** IT       Information Technology
+** ITF      Integrated Test Facility
+** IV & V   Internal Validation & Verification
+** IVS      Intervention Services
+* J
+** JCL      Job Control Language
+** JFO      Joint Fiscal Office
+** LAMP     Legal Aid Medicaid Project
+** LAN      Local Area Network
+** LC       Legislative Council
+** LECC     Legally Exempt Child Care
+** LIHEAP   Low-Income Home Energy Assistance Program
+** LIS      Low-Income Subsidy
+** LIT      Local Interagency Team
+** LTC      Long-Term Care
+** LUPA     Low Utilization Payment Adjustment
+* M
+** MA       Medicare Advantage – Medicare Part C in VT
+** MAB      Medicaid Advisory Board
+** MAC      Maximum Allowable Cost (refers to drug pricing)
+** MAGI     Modified Adjusted Gross Income
+** MAPIR    Medicaid Assistance Provider Incentive Repository
+** MARS     Management & Administrative Reporting
+** MAT      Medication Assisted Therapy
+** MCE      Managed Care Entity
+** MCH      Maternal and Child Health
+** MCMC     Managed Care Medical Committee
+** MCO      Managed Care Organization
+** MCP      Managed Care Plan
+** MDB      Medicare Database
+** MEAB     Medicare & Exchange Advisory Board                          
+Google pulls no results. Confirm.
+** MEC      Minimum Essential Coverage
+** MEQC     Medicaid Eligibility Quality Control
+** MES      Medicaid Enterprise Solution
+** MFP      Money Follows the Person
+** MFRAU    Medicaid Fraud & Residential Abuse Unit
+** MID      Beneficiary Medicaid Identification Number (see UID)
+** MIC      Medicaid Integrity Contractor
+** MIG      Medicaid Integrity Group
+** MIP      Medicaid Integrity Program
+** MIS      Management Information System
+** MITA     Medicaid Information Technology Architecture
+
+** MMA      Medicare Modernization Act
+** MMIS     Medicaid Management Information System
+** MNF      Medical Necessity Form
+** MOE      Maintenance of Effort
+** MOE      Maintenance of Eligibility
+** MOU      Memorandum of Understanding
+** MOVE     Modernization of Vermont’s Enterprise
+** MSIS     Medicaid Statistical Information
+** MSP      Medicare Savings Programs
+** MTM      Medication Therapy Management
+** MU       Meaningful Use
+** MVP      Mohawk Valley Physicians                               :provider:
+* N
+** NAIC     National Association of Insurance Commissioners
+** NAMI     National Association for Mental Illness
+** NCBD     National CAHPS Benchmarking Database
+** NCCI     National Correct Coding Initiative
+** NCQA     National Committee for Quality Assurance
+** NDC      National Drug Code
+** NEKCA    Northeast Kingdom Community Action                           :vt:
+** NEMT     Non-Emergency Medical Transportation
+** NGA      National Governors Association
+** NP       Nurse Practitioner or Naturopathic Physician
+** NPA      Non-Public Assistance
+** NPF      National Provider File
+** NPI      National Provider Identifier
+* O
+** OADAP    Office of Alcohol & Drug Abuse Programs
+** OASDI    Old Age, Survivors, Disability Insurance
+** OASIS    Organization for the Advancement of Structured Information Standards
+** OCIIO    Office of Consumer Information and Insurance Oversight (CMS)
+** OCS      Office of Child Support
+** OCSE     Office of Child Support Enforcement
+** ODAP     Office of Drug & Alcohol Prevention
+** OEO      Office of Economic Opportunity
+** OHRA     Oral Health Risk Assessment
+** OLTP     Online Transaction Processing
+** OMR      Oversight, Monitoring, Reporting
+** ONC      Office of National Coordinator for HIT
+** OPS      Operations
+** OPPS     Outpatient Prospective Payment System
+** OTC      Over the Counter
+** OVHA     Office of Vermont Health Access (now department (DVHA)
+* P
+** PA(1)    Prior Authorization
+** PA(2)    Public Assistance or Physician Assistant 
+** PA(3)    Payment Authorization
+** PACE     Program for All-Inclusive Care for the Elderly
+** PAPD     Planning Advanced Planning Document (CMS)
+** PARIS    Public Assistance Reporting Information System
+** PATH     Department of Prevention, Assistance, Transition, & Health Access (now DCF)
+** PBA/PBM  Pharmacy Benefits Administrator / Pharmacy Benefits Manager
+** PC Plus  VT Primary Care Plus
+** PCCM     Primary Care Case Management
+** PCIP     Pre-existing Condition Insurance Plan
+** PCMH     Patient-Centered Medical Home
+** PCP      Primary Care Provider
+** PDF      Portable Document File
+** PDL      Preferred Drug List
+** PDP      Prescription Drug Plan
+** PDSA     Plan Do Study Act
+** PEP(1)   Proposal Evaluation Plan 
+** PEP(2)   Principal Earner Parent
+** PERM     Payment Error Rate Measurement
+** PES      Provider Electronic Solutions
+** PHI      Protected Health Information
+** PHO      Physician Hospital Organization
+** PI       Program Integrity
+** PII      Personally Identifiable Information
+** PIL      Protected Income Level 
+** PIL      Poverty Income Guidelines
+** PIP      Performance Improvement Project
+** PIRL     Plan Information Request Letter
+** PIA      Privacy Impact Statement
+** PM       Project Manager
+** PMO      Project Management Office
+** PMP      Project Management Plan
+** PMPM     Per Member Per Month
+** PNMI     Private Non-Medical Institution
+** POC(1)   Plan of Care 
+** POC(2)   Public Oversight Commission
+** POS(1)   Point of Sale
+** POS(2)   Point of Service
+** PP&D     Policy, Procedures and Development
+(Interpretive Rule Memo)
+
+** PPA      Project Process Agreement
+** PPACA    Patient Protection & Affordable Care Act
+** PPPM     Per Patient Per Month
+** PPR      Planning, Policy and Regulation
+** PRO      Peer Review Organization
+** PRWORA   Personal Responsibility & Work Opportunity Reconciliation Act
+** PSE      Post-Secondary Education
+** PSTG     Private Sector Technology Group
+* Q
+** QC       Quality Control
+** QHP      Qualified Health Plan
+** QI(1)    Qualified Individual
+** QI(2)    Quality Improvement
+** QIAC     Quality Improvement Advisory Committee
+** QMB      Qualified Medicare Beneficiary
+
+** QWDI    Qualified Working Disabled Individual
+
+* R
+** RA      Remittance Advice
+** RAC     Recovery Audit Contractor
+** RAM     Responsibility Assignment Matrix
+** RBC     Risk Based Capital
+** RBRVS   Resource-Based Relative Value Scale
+** RBUC    Reported But Unpaid Claims
+** REVS    Recipient Eligibility Verification System
+** RFI     Request for Information
+** RFP     Request for Proposals
+** RMP     Risk Management Plan
+** RN      Registered Nurse
+** RO      Regional Office
+** ROB     Rules of Behavior
+** ROI     Return on Investment
+** RR      Railroad Retirement
+** RSD     Requirements Specification Document
+** RTM     Requirements Traceability Matrix
+** RU      Reach Up program
+** RVU     Relative Value Units
+* S
+** SAMHSA  Substance Abuse and Mental Health Services Administration
+** SAS     Statement on Auditing Standards
+** SASH    Support and Services at Home
+** SBC     Summary of Benefits & Coverage
+** SBE     State Health Benefit Exchange
+** SCHIP   State Children's Health Insurance* Program
+** SDMP    System Development Management Plan
+** SDO     Standards Development Organization
+** SDX     State Data Exchange System
+** SE      Systems Engineer
+** SEP     Special Enrollment Periods
+** SERFF   System for Electronic Rate & Form Filing
+From [[National Association of Insurance Commissioners][NAIC]]
+** SF      Supplemental Fuel
+** SFY     State Fiscal Year
+** SGF     State General Fund
+** SHOP    Small Business Health Options Program
+** SILC    Statewide Independent Living Council
+** SLA     Service Level Agreement
+** SLHIE   State Level HIE Consensus Project
+** SLMB    Specified Low-Income Medicare Beneficiary
+** SMDL    State Medicaid Directors Letter
+** SMHP    State Medicaid HIT Plan
+** SMM     State Medicaid Manual
+** SNAP    State Nutritional Assistance Program
+** SNF     Skilled Nursing Facility
+** SOA     Service Oriented Architecture                                 :it:
+** SOR     System of Records
+** SORN    System of Record Notice
+** SOW     Statement of Work
+** SPA     State Plan Amendment
+** SPAP    State Pharmacy Assistance Program
+** SPR     Safeguard Procedures Report
+** SRS     Social & Rehabilitative Services (Department of)
+** SSA(1)  Social Security Administration
+** SSA(2)  State Self Assessment
+** SSBG    Social Services Block Grant
+** SSI     Supplemental Security Income
+** SSN     Social Security Number
+** SSO     Standards Setting Organization
+** SSP     Systems Security Plan
+** SUR     Surveillance & Utilization Review
+* T
+** TAD     Turnaround Documents
+** TANF    Temporary Assistance for Needy Families (Reach Up in VT)
+** TARB    Technical Architecture Review Board
+** TBI     Traumatic Brain Injury
+** TIN     Taxpayer Identification Number
+** TM      Transitional Medicaid
+** TPA     Third Party Administrator
+** TPL     Third Party Liability
+* U
+** UC      Unemployment Compensation
+** UCR     Usual & Customary Rate
+** UCUM    Unified Code for Units of Measure
+** UI      Unemployment Insurance
+** UIB     Unemployment Insurance Benefits
+** UID     Unique Identification Number
+** UM      Utilization Management
+** UMLS    Unified Medical Language System
+** UR      Utilization Review
+** UVM     University of Vermont                                         :vt:
+* V
+** VA      Veterans Administration
+** VAB     VT Association for the Blind
+** VAHHA   VT Assembly of Home Health Agencies
+** VAHHS   VT Association of Hospital & Health Systems
+** VCCI    Vermont Chronic Care Initiative
+** VCIL    Vermont Center for Independent Living
+** VDH     VT Department of Health                                       :vt:
+** VDHA    VT Dental Hygienists Association
+** VHAP    VT Health Access Plan
+** VHAP-Rx VT Health Access Plan Pharmacy Program
+** VHC     Vermont Health Connect
+** VHCURES VT Healthcare Claims Uniform Reporting & Evaluation System
+** VIEWS   Vermont's Integrated Eligibility Workflow System
+** VIP     VT Independence Project
+** VISION  VT's Integrated Solution for Information and Organizational Needs
+  (the statewide accounting system)
+
+** VIT     VT Interactive Television
+** VITL    VT Information Technology Leaders
+** VLA     VT Legal Aid
+** VMS     VT Medical Society
+** VNA     Visiting Nurses Association
+** VPHARM  VT Pharmacy Benefits Program
+** VPQHC   VT Program for Quality in Health Care
+** VPTA    Vermont Public Transportation Agency
+** VR      Vocational Rehabilitation
+** VRS     Voice Response System
+** VSA     VT Statutes Annotated
+** VSAC    VT Student Assistance Corporation                             :vt:
+** VScript VT Pharmacy Benefits Program
+** VSDS    VT State Dental Society
+** VSEA    VT State Employees Association
+** VSECU   VT State Employees Credit Union
+** VSH     VT State Hospital
+** VSHA    VT State Housing Authority
+** VT      State of Vermont
+** VTD     VT Part D as Primary
+** VTM     VT Medicaid as Primary
+** VUL     VT Upper Limit
+* W
+** WAC     Wholesale Acquisition Cost
+** WBS     Work Breakdown Structure
+** WIC     Women, Infants & Children
+** WTW     Welfare to Work
+

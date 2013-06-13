@@ -1,0 +1,32 @@
+* Quick Sheet
+* Use Case  
+* IDEF0
+* Flow
+* DTD/DTR
+
+* Appeal
+- Appeals
+  -IDEF0
+  - IDEF0 Primary Actor Level [SB07,CS26; EE07,CS25]
+  - Business Manual
+  - Open Issues
+** SB07
+- QS
+- IDEF0
+- Flow
+- UC
+** EE07
+- QS
+- IDEF0
+- Flow
+- UC
+** CS25
+- QS
+- IDEF0
+- Flow
+- UC
+** CS 26
+- QS
+- IDEF0
+- Flow
+- UC
