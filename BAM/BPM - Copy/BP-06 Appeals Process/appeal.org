@@ -1,0 +1,31 @@
+
+* Appeal (CS-25,CS-26,EE-07,SB-07)
+
+** Individual/Navigator (CS-25, EE-07)
+
+- Individual Request Appeal 
+- HBE Process Request
+  - Contact Info
+  - Date of Request
+  - Substance of complaint/appeal
+  - Route to adjudicating body
+- If Grievance or Escalated Complaint
+  - Escalate to SOV Resolver Group
+- If Fair Hearing or Appeal
+  - If Small Business, Prior Authorization, Covered Services, Policy
+    - Escalate to DVHA Resolver Group
+  - If Eligibility, Termination, Premiums, APTC/CSR, Enrollment
+    Period, Exemption
+    - Escalate to ESD Resolver Group
+- Resolver Group reviews appeal
+- Resolver Group attempts to resolve
+- If Grievance,
+- If Fair Hearing,
+- If Appeal, 
+
+** Small Business(CS-26, SB-07)
+
+
+
+*** Appeal
+

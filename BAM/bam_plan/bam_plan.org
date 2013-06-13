@@ -1,0 +1,177 @@
+ ORGANIZATION   -*- mode: org; -*-
+#+TITLE: Business Analyst Machine Plan File
+#+AUTHOR: Andrew Laing
+
+
+* SETTINGS
+#+TODO: WAITING (w) TODO(t) | DONE(d) 
+#+TODO: DELEGATED(g) 
+#+TODO: MEET(m) | MET(M)
+#+TODO: REPORT(r) BUG(b) KNOWNCAUSE(k) | FIXED(f)
+#+TODO: | CANCELED(c)
+#+TAGS: EE PM FM 
+#+TAGS: TEAM1 TEAM2 TEAM3 
+#+STARTUP: overview
+#+STARTUP: lognotedone
+** BLANKTASK
+ :PROPERTIES:
+ :Effort: 2h
+ :Cost:   $0
+ :END:
+
+- Duration
+- Resources
+- Handoff
+- Outcome [ ]
+  - [ ] First Thing
+  - [ ]
+  - [ ]
+-
+
+
+
+* A_5 BIG ideas
+  1. Collaborate, really collaborate.
+  2. Optimize the whole, not the parts.
+  3. Tightly couple learning wtih action.
+  4. Conduct the project as a network of commitments.
+  5. Increase the relatedness of the project participants.
+
+* B_Planning
+
+** Make Ready Planning
+- Goals
+  - Make work ready by defining specific work content for tasks and
+    identifying and eliminating constraints to task completion.
+  - Coordinate and level work, update plan based on commitments met.
+- Weekly
+
+** Weekly Work Planning 
+* C_ Lean, Mean, BA Machine
+** Understand the big picture. What is the value proposition?
+** Think backwards. From the big picture, what is the minimum possible path back to today for success?
+** Constant improvement. Less waste is more value. Ask “why” over and over (root-cause analysis).
+** Flow. Always moving; always improving. Cycles of work. Agility. Regular conversations (circles) vs. waterfalls/critical-paths (lines). Pull instead of push.
+
+
+
+* 1_PHASEPLAN
+** BPM
+** Training
+
+
+* 2_MAKEREADYQ
+** Quick SHeets 
+*** DONE QuickSheet PM-02: Monitor Issuer and Plan Certification Compliance :PM:
+    CLOSED: [2013-05-24 Fri 21:28]
+    CLOCK: [2013-05-20 Mon]--[2013-05-24 Fri] => 96:00
+
+*** DONE QuickSheet PM-05  Process Change in Plan Enrollement Availability :PM:QS:
+    CLOSED: [2013-05-28 Tue 08:26]
+    - CLOSING NOTE [2013-05-28 Tue 08:26] \\
+      <2013-05-24 Fri> delivery to Jason Garrow.
+*** DONE QuickSheet PM-06  Review Rate Increase Justifications        :PM:QS:
+    CLOSED: [2013-05-28 Tue 08:27]
+    - CLOSING NOTE [2013-05-28 Tue 08:27] \\
+      <2013-05-24 Fri> delivery to Jason Garrow.
+*** DONE QuickSheet EE-20  Conduct Periodic Enrollment Reporting and Reconcilliation :EE:QS:
+*** DONE QuickSheet SB-14  Enroll Employee in Qualified Health Plan   :SB:QS:
+    CLOSED: [2013-05-28 Tue 08:28]
+    - CLOSING NOTE [2013-05-28 Tue 08:28] \\
+      <2013-05-24 Fri> delivery to Jason Garrow.
+*** DONE QuickSheet SB-19  Conduct Periodic Enrollment Reporting and Reconcilliation :SB:QS:
+    CLOSED: [2013-05-28 Tue 08:27]
+    - CLOSING NOTE [2013-05-28 Tue 08:27] \\
+      <2013-05-24 Fri> delivery to Jason Garrow.
+*** DONE QuickSheet SB-17  Elect Employee Participation in Qualified Health Plan :SB:QS:
+    CLOSED: [2013-05-28 Tue 08:27]
+    - CLOSING NOTE [2013-05-28 Tue 08:27] \\
+      <2013-05-24 Fri> delivery to Jason Garrow.
+
+
+
+*** QuickSheet CS-31  Search and Provide Information                  :CS:QS:
+*** QuickSheet PM-07  Public Plan Administration                      :PM:QS:
+*** QuickSheet EE-01  Prepare Initial Application                     :EE:QS:
+
+
+*** QuickSheet SB-02  Verify Data on Employer Eligibility Application :SB:QS:
+*** QuickSheet SB-03  Determine Employer Eligibility                  :SB:QS:
+*** QuickSheet SB-08  Redetermine / Renew Employer Participation in Exchange :SB:QS:
+*** QuickSheet SB-05  Communicate Employer Insurance Options to Employees :SB:QS:
+*** QuickSheet SB-10  Prepare Employee Eligibility and Enrollment Application :SB:QS:
+*** QuickSheet SB-15  Update Employee Eligibility Application         :SB:QS:
+*** QuickSheet SB-11  Verify Data on Employee Eligibility Application :SB:QS:
+*** QuickSheet SB-12  Determine Employee Eligibility                  :SB:QS:
+*** QuickSheet FM-03  Small Business Premium Collection               :FM:QS:
+*** QuickSheet FM-04  State Collection of Indivudual Premiums         :FM:QS:
+*** QuickSheet FM-02b VPA Calculation and Invoicing                   :FM:QS:
+
+
+*** QuickSheet CS-11  Identify Customer                               :CS:QS:
+
+
+
+*** QuickSheet CS-41  Manage FAQ / Solution                           :CS:QS:
+
+-
+
+
+
+
+* Weekly Work Plan
+
+** TEAM 1 Peter/Martin
+*** TODO SB-07, 
+*** TODO QuickSheet EE-13                                             :PW:MQ:
+*** TODO QUickSheet SB-09                                             :PW:MQ:
+
+*** TODO QUickSheet FM-07                                             :PW:MQ:
+*** TODO QUickSheet FM-02a                                            :PW:MQ:
+*** TODO QUickSheet CS-71                                             :PW:MQ:
+
+
+
+*** TODO QUickSheet PM-09                                             :PW:MQ:
+
+
+*** TODO QuickSheet FM-20  Small Business Premium Refund        :FM:QS:PW:MQ:
+
+*** TODO QuickSheet FM-21  Individual Premium Refund            :FM:QS:PW:QM:
+
+*** TODO QuickSheet CS-12  Route Call                           :CS:QS:PW:QM:
+
+
+** TEAM 2 Jim/Faraz
+*** TODO QuickSheet CS-22  Research and Resolve Service Request       :CS:QS:
+
+*** TODO QuickSheet CS-23  Escalation Management                      :CS:QS:
+
+*** TODO QuickSheet CS-24  Close Service Request                      :CS:QS:
+
+*** TODO QuickSheet EE-04
+
+*** TODO QuickSheet EE-08  Verify Whether Individual is an Indian     :EE:QS:
+*** TODO QuickSheet EE-09  Verify Individual Eligibility for Employer-Sponsored Minimum Essential Coverage :EE:QS:
+*** TODO QuickSheet EE-15  Verify Individual Residency in HBE Service Area :EE:QS:
+*** TODO QuickSheet EE-16  Verify Individual Eligibility for Other Public Minimum Essential Coverage :EE:QS:
+
+
+** TEAM 3 Melanie/Kristina
+
+*** QuickSheet EE-03  Determine Individual HBE Eligibility            :SB:QS:
+
+*** QuickSheet EE-10  Determine Individual Medicaid, CHIP, and BHP Eligibility :EE:QS:
+*** QuickSheet EE-11  Determine Elibibiligy for APTC and CSR          :EE:QS:
+*** QuickSheet EE-18  Qualify Individual for Enrolent Period          :EE:QS:
+
+*** QuickSheet EE-06  Review Individual Eligibility and Enrollment    :EE:QS:
+*** QuickSheet EE-05  Verify Individual Incarceration Status          :EE:QS:
+
+*** QuickSheet EE-08  
+
+
+
+
+
+* Performance History
